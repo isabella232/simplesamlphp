@@ -9,7 +9,6 @@
  * @package simpleSAMLphp
  */
 
-require_once('_include.php');
 
 /* Index pages - filenames to attempt when accessing directories. */
 $indexFiles = array('index.php', 'index.html', 'index.htm', 'index.txt');

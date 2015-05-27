@@ -1,6 +1,5 @@
 <?php
 
-require_once('../../_include.php');
 
 /* Load simpleSAMLphp, configuration and metadata */
 $config = SimpleSAML_Configuration::getInstance();

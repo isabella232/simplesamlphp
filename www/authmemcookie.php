@@ -10,7 +10,6 @@
  * to use simpleSAMLphp.
  */
 
-require_once('_include.php');
 
 try {
 	/* Load simpleSAMLphp configuration. */

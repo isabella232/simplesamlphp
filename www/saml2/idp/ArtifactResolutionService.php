@@ -8,7 +8,6 @@
  * @package simpleSAMLphp
  */
 
-require_once('../../_include.php');
 
 $config = SimpleSAML_Configuration::getInstance();
 if (!$config->getBoolean('enable.saml20-idp', FALSE)) {

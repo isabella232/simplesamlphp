@@ -1,6 +1,5 @@
 <?php
 
-require_once('_include.php');
 
 /**
  * This page clears the user's IdP discovery choices.

@@ -4,7 +4,6 @@
  * The _include script registers a autoloader for the simpleSAMLphp libraries. It also
  * initializes the simpleSAMLphp config class with the correct path.
  */
-require_once('_include.php');
 
 
 /* Load simpleSAMLphp, configuration and metadata */
